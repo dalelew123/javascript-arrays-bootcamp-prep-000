@@ -8,3 +8,7 @@ function addElementToBeginningOfArray() {
 function destructivelyAddElementToBeginningOfArray() {
 
 }
+
+function removeElementFromBeginningOfArray() {
+  
+}
