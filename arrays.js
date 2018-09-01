@@ -1,8 +1,7 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeginningOfArray() {
-  var cities = [];
-  cities.push("Tampa");
+function addElementToBeginningOfArray(cities, ) {
+  
 }
 
 
@@ -18,6 +17,7 @@ function destructivelyRemoveElementFromEndOfArray () {
 
 }
 
-function removeElementFromEndOfArray() {
-
+function removeElementFromEndOfArray(cities) {
+  var newCities = cities.pop();
+  return newCities;
 }
