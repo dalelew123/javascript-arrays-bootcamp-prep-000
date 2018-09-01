@@ -1,7 +1,7 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function addElementToBeginningOfArray(cities, tampa) {
-  var newCities = cities.push();
+  var newCities = cities.push(tampa);
   retuen newCities;
 }
 
