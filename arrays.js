@@ -10,5 +10,9 @@ function destructivelyAddElementToBeginningOfArray() {
 }
 
 function removeElementFromBeginningOfArray() {
+
+}
+
+function destructivelyRemoveElementFromEndOfArray () {
   
 }
