@@ -5,4 +5,6 @@ function addElementToBeginningOfArray() {
 }
 
 
-var estructivelyAddElementToBeginningOfArray;
+function estructivelyAddElementToBeginningOfArray() {
+  
+}
