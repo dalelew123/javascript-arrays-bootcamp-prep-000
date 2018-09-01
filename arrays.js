@@ -1,11 +1,12 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function addElementToBeginningOfArray(cities, ) {
-
+  var newCities = cities.push();
+  retuen newCities;
 }
 
 
-function destructivelyAddElementToBeginningOfArray() {
+function destructivelyAddElementToBeginningOfArray(cities,) {
 
 }
 
