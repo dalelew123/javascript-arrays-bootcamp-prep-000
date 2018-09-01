@@ -5,6 +5,6 @@ function addElementToBeginningOfArray() {
 }
 
 
-function estructivelyAddElementToBeginningOfArray() {
-  
+function destructivelyAddElementToBeginningOfArray() {
+
 }
